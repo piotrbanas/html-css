@@ -1,0 +1,332 @@
+/* CSS Document */
+a:link {
+	text-decoration:none;
+	color: #FEC900;
+}
+
+a:visited {
+	text-decoration:none;
+	color: #FEC900;
+}
+
+a:active {
+	text-decoration:none;
+	color: #FEC900;
+}
+
+a:hover {
+	text-decoration:none;
+	color: #FEC900;
+}
+a img {border: none; }
+body {
+	background-color: #222625;
+	color: #FFF;
+	margin: 0px;
+	background-image: url(../img/bcgrnd_02.jpg);
+	background-repeat: repeat;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	scrollbar-base-color:#361A42
+}
+#container {
+	height: 700px;
+	width: 920px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#logo {
+	float: left;
+	height: 43px;
+	width: 235px;
+}
+#start {
+	float: left;
+	height: 43px;
+	width: 166px;
+	
+}
+#start-aktyw {
+	float: left;
+	height: 43px;
+	width: 166px;
+	background-color: #CD7052;
+}
+#start:hover {background-color: #CD7052;}
+
+#kolekcja {
+	float: left;
+	height: 43px;
+	width: 167px;
+}
+#kolekcja-aktyw {
+	float: left;
+	height: 43px;
+	width: 167px;
+	background-color: #CD7052;
+}
+#kolekcja:hover {background-color: #CD7052;}
+#onas {
+	float: left;
+	height: 43px;
+	width: 166px;
+}
+#onas-aktyw {
+	float: left;
+	height: 43px;
+	width: 166px;
+	background-color: #CD7052;
+}
+#onas:hover {background-color: #CD7052;}
+#kontakt-aktyw {
+	float: left;
+	height: 43px;
+	width: 166px;
+	background-color: #CD7052;
+}
+#kontakt {
+	float: left;
+	height: 43px;
+	width: 166px;
+}
+#kontakt:hover {background-color: #CD7052;}
+#separator {
+	float: left;
+	height: 13px;
+	width: 900px;
+}
+#top {
+	height: 36px;
+	width: 900px;
+	float: left;
+}
+#main {
+	float: left;
+	height: 550px;
+	width: 900px;
+	font-family: "MS Serif", "New York", serif;
+}
+#main-galeria {
+	float: left;
+	height: 550px;
+	width: 900px;
+	background-color: #27113f;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #EDAF00;
+}
+#main-skrol {
+	float: left;
+	height: 550px;
+	width: 900px;
+	background-color: #1D0005;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #EDAF00;
+	overflow: auto;
+}
+#miniaturka2 {
+	margin-top: 10px;
+	float: left;
+	margin-left: 25px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+}
+#kliknij {
+	float: none;
+	height: 20px;
+	width: 850px;
+	font-weight: normal;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	padding-top: 4px;
+	text-align: center;
+}
+#wyprz {
+	padding-right: 20%;
+	float: right;
+	margin-bottom: 10px;
+	padding-left: 10%;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	height: auto;
+	width: auto;
+
+}
+#powrot {
+	float: left;
+	height: 33px;
+	width: 85px;
+	margin-left: 5%;
+	margin-bottom: 3px;
+	margin-top: -2px;
+}
+
+
+#mapka {
+	float: right;
+	height: 161px;
+	width: 250px;
+	margin-top: -175px;
+	margin-left: -256px;
+	margin-right: 5px;
+}
+#mapka2 {
+	float: left;
+	height: 161px;
+	width: 250px;
+	margin-top: -175px;
+	margin-left: 286px;
+	margin-right: 5px;
+}
+#stopka {
+	float: left;
+	height: 25px;
+	width: 890px;
+	background-color: #CD7052;
+	font-family: "Qlassik Medium";
+	font-size: 18px;
+	color: #F3C300;
+	text-align: right;
+	clip: rect(auto,auto,auto,auto);
+	padding-top: 4px;
+	padding-right: 10px;
+}
+#tekst {
+	float: left;
+	height: 550px;
+	width: 250px;
+	margin-top: -550px;
+	margin-left: 80px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #FEC900;
+	text-align: center;
+	background: rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.6);
+
+
+
+
+
+
+
+
+
+
+
+
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+	font-variant: normal;
+	font-weight: normal;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#tekst2 {
+	float: right;
+	height: 550px;
+	width: 356px;
+	margin-top: -550px;
+	margin-left: 474px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #FEC900;
+	text-align: center;
+	background: rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.5);
+
+
+
+
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+	font-variant: normal;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#tekst3 {
+	float: left;
+	height: 550px;
+	width: 300px;
+	margin-top: -550px;
+	margin-left: 137px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #FEC900;
+	text-align: center;
+	background: rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.7);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#tekst4 {
+	float: left;
+	height: 550px;
+	width: 256px;
+	margin-top: -550px;
+	margin-left: 624px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #FEC900;
+	text-align: center;
+	background: rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.7);
+
+
+
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+	font-variant: normal;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#tekst6 {
+	float: left;
+	height: 550px;
+	width: 256px;
+	margin-top: -550px;
+	margin-left: 285px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #FEC900;
+	text-align: center;
+	background: rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.7);
+
+
+
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+	font-variant: normal;
+}
